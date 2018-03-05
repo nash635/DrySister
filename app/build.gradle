@@ -16,7 +16,7 @@ android {
     compileSdkVersion depend_android["compileSdkVersion"]
     buildToolsVersion depend_android["buildToolsVersion"]
     defaultConfig {
-        applicationId "com.coderpig.drysisters"
+        applicationId "com.tianwei.hakka"
         minSdkVersion depend_android["minSdkVersion"]
         targetSdkVersion depend_android["targetSdkVersion"]
         versionCode 3
