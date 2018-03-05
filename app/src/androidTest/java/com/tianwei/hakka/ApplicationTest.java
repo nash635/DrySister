@@ -1,4 +1,4 @@
-package coderpig.com.drysisters;
+package com.tianwei.hakka;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
